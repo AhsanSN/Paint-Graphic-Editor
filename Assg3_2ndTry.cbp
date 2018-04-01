@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Assg3_2ndTry" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Assg3_2ndTry" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Assg3_2ndTry" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SDL2-devel-2.0.6-mingw/SDL2-2.0.6/i686-w64-mingw32/include" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SDL2-devel-2.0.6-mingw/SDL2_mixer-2.0.1/i686-w64-mingw32/include" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SDL2-devel-2.0.6-mingw/SDL2_image-2.0.1/i686-w64-mingw32/include" />
+		</Compiler>
+		<Linker>
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SDL2-devel-2.0.6-mingw/SDL2-2.0.6/i686-w64-mingw32/lib" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SDL2-devel-2.0.6-mingw/SDL2_mixer-2.0.1/i686-w64-mingw32/lib" />
+			<Add directory="C:/Program Files (x86)/CodeBlocks/SDL2-devel-2.0.6-mingw/SDL2_image-2.0.1/i686-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="include/Line.h" />
+		<Unit filename="include/Node.h" />
+		<Unit filename="include/Node_redo.h" />
+		<Unit filename="include/Point.h" />
+		<Unit filename="include/Rect.h" />
+		<Unit filename="include/Shapes.h" />
+		<Unit filename="include/Stack.h" />
+		<Unit filename="include/Stack_redo.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Line.cpp" />
+		<Unit filename="src/Node.cpp" />
+		<Unit filename="src/Node_redo.cpp" />
+		<Unit filename="src/Point.cpp" />
+		<Unit filename="src/Rect.cpp" />
+		<Unit filename="src/Shapes.cpp" />
+		<Unit filename="src/Stack.cpp" />
+		<Unit filename="src/Stack_redo.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

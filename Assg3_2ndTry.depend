@@ -1,0 +1,345 @@
+# depslib dependency file v1.0
+1507742282 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\main.cpp
+	<SDL.h>
+	<stdio.h>
+	<string>
+	<windows.h>
+	<time.h>
+	<cstdlib>
+	<unistd.h>
+	<cmath>
+	<iostream>
+	"Rect.h"
+	"Line.h"
+	"Stack.h"
+	"Stack_redo.h"
+
+1507525704 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\src\line.cpp
+	"Line.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507369933 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\include\line.h
+	"SDL.h"
+	<Shapes.h>
+
+1507299129 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\include\shapes.h
+	<SDL.h>
+
+1507370345 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\src\point.cpp
+	"Point.h"
+	"SDL.h"
+	<iostream>
+
+1507294747 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\include\point.h
+	"SDL.h"
+	<Shapes.h>
+
+1507657044 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\include\rect.h
+	"SDL.h"
+	"Point.h"
+	"Shapes.h"
+
+1507657044 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\src\rect.cpp
+	"Rect.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507299117 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\src\shapes.cpp
+	"Shapes.h"
+
+1507728481 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\include\stack.h
+	"Node.h"
+	"Shapes.h"
+	<iostream>
+	<SDL.h>
+
+1507566735 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\include\node.h
+	<iostream>
+	"Shapes.h"
+
+1507196083 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\src\node.cpp
+
+1507739320 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<SDL.h>
+	<Shapes.h>
+	<Rect.h>
+
+1507641583 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\src\stack_redo.cpp
+	"Stack_redo.h"
+	<iostream>
+	<SDL.h>
+	<Shapes.h>
+	<Rect.h>
+
+1507566616 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\include\stack_redo.h
+	"Node.h"
+	"Shapes.h"
+	<iostream>
+	<SDL.h>
+
+1507566716 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\new try\assg3_2ndtry\src\node_redo.cpp
+
+1507742543 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\src\line.cpp
+	"Line.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507369933 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\include\line.h
+	"SDL.h"
+	<Shapes.h>
+
+1507299129 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\include\shapes.h
+	<SDL.h>
+
+1507742310 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\src\node.cpp
+
+1507742316 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\src\node_redo.cpp
+
+1507742348 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\src\point.cpp
+	"Point.h"
+	"SDL.h"
+	<iostream>
+
+1507781884 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\include\point.h
+	"SDL.h"
+	<Shapes.h>
+
+1507742377 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\src\rect.cpp
+	"Rect.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507657044 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\include\rect.h
+	"SDL.h"
+	"Point.h"
+	"Shapes.h"
+
+1507742424 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\src\shapes.cpp
+	"Shapes.h"
+
+1507742514 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<SDL.h>
+	<Shapes.h>
+	<Rect.h>
+
+1507728481 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\include\stack.h
+	"Node.h"
+	"Shapes.h"
+	<iostream>
+	<SDL.h>
+
+1507566735 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\include\node.h
+	<iostream>
+	"Shapes.h"
+
+1507742571 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\src\stack_redo.cpp
+	"Stack_redo.h"
+	<iostream>
+	<SDL.h>
+	<Shapes.h>
+	<Rect.h>
+
+1507566616 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\include\stack_redo.h
+	"Node.h"
+	"Shapes.h"
+	<iostream>
+	<SDL.h>
+
+1507742934 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmedsa02908\assg3_2ndtry\main.cpp
+	<SDL.h>
+	<stdio.h>
+	<string>
+	<windows.h>
+	<time.h>
+	<cstdlib>
+	<unistd.h>
+	<cmath>
+	<iostream>
+	"Rect.h"
+	"Line.h"
+	"Stack.h"
+	"Stack_redo.h"
+
+1508575694 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\main.cpp
+	<SDL.h>
+	<stdio.h>
+	<string>
+	<windows.h>
+	<time.h>
+	<cstdlib>
+	<unistd.h>
+	<cmath>
+	<iostream>
+	"Rect.h"
+	"Line.h"
+	"Stack.h"
+	"Stack_redo.h"
+
+1507657044 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\include\rect.h
+	"SDL.h"
+	"Point.h"
+	"Shapes.h"
+
+1507781884 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\include\point.h
+	"SDL.h"
+	<Shapes.h>
+
+1507299129 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\include\shapes.h
+	<SDL.h>
+
+1507369933 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\include\line.h
+	"SDL.h"
+	<Shapes.h>
+
+1507728481 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\include\stack.h
+	"Node.h"
+	"Shapes.h"
+	<iostream>
+	<SDL.h>
+
+1507566735 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\include\node.h
+	<iostream>
+	"Shapes.h"
+
+1507566616 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\include\stack_redo.h
+	"Node.h"
+	"Shapes.h"
+	<iostream>
+	<SDL.h>
+
+1507742543 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\src\line.cpp
+	"Line.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507742310 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\src\node.cpp
+
+1507742316 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\src\node_redo.cpp
+
+1507742377 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\src\rect.cpp
+	"Rect.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507742424 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\src\shapes.cpp
+	"Shapes.h"
+
+1507785577 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<SDL.h>
+	<Shapes.h>
+	<Rect.h>
+
+1507742571 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\src\stack_redo.cpp
+	"Stack_redo.h"
+	<iostream>
+	<SDL.h>
+	<Shapes.h>
+	<Rect.h>
+
+1507782010 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3\syedahsanahmed02908\assg3_2ndtry\src\point.cpp
+	"Point.h"
+	"SDL.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507742543 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\src\line.cpp
+	"Line.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507369933 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\include\line.h
+	"SDL.h"
+	<Shapes.h>
+
+1507299129 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\include\shapes.h
+	<SDL.h>
+
+1507742310 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\src\node.cpp
+
+1507742316 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\src\node_redo.cpp
+
+1507782010 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\src\point.cpp
+	"Point.h"
+	"SDL.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507781884 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\include\point.h
+	"SDL.h"
+	<Shapes.h>
+
+1507742377 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\src\rect.cpp
+	"Rect.h"
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1507657044 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\include\rect.h
+	"SDL.h"
+	"Point.h"
+	"Shapes.h"
+
+1507742424 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\src\shapes.cpp
+	"Shapes.h"
+
+1507785577 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<SDL.h>
+	<Shapes.h>
+	<Rect.h>
+
+1507728481 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\include\stack.h
+	"Node.h"
+	"Shapes.h"
+	<iostream>
+	<SDL.h>
+
+1507566735 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\include\node.h
+	<iostream>
+	"Shapes.h"
+
+1507742571 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\src\stack_redo.cpp
+	"Stack_redo.h"
+	<iostream>
+	<SDL.h>
+	<Shapes.h>
+	<Rect.h>
+
+1507566616 c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\include\stack_redo.h
+	"Node.h"
+	"Shapes.h"
+	<iostream>
+	<SDL.h>
+
+1508607108 source:c:\users\ahsan ahmed\desktop\oop lab 1\oop assignment 3 - 1\syedahsanahmed02908\assg3_2ndtry\main.cpp
+	<SDL.h>
+	<stdio.h>
+	<string>
+	<windows.h>
+	<time.h>
+	<cstdlib>
+	<unistd.h>
+	<cmath>
+	<iostream>
+	"Rect.h"
+	"Line.h"
+	"Stack.h"
+	"Stack_redo.h"
+
