@@ -22,3 +22,33 @@ With the left mouse button we finish drawing a rectangle or any other object. Wi
 we should be able to undo what we have done so far, but by pressing the middle moose button we will be
 able to redo what we did in the past. In case you undo a few drawings and start drawing, then you will not
 be able to redo everything that was undone.
+
+## Screenshots
+
+<table>
+  <tbody>
+    <tr>
+      <!-- Video 1 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(670).png">
+          <br>
+      </td>
+      <!-- Video 2 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(671).png">
+          <br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(672).png">
+          <br>
+      </td>
+      <!-- Video 1 -->
+      <td align="center">
+          <img width="390" alt="FamiChat" src="/screenshots/Screenshot%20(673).png">
+          <br>
+      </td>
+     <tr>
+  </tbody>
+</table>
